@@ -15,12 +15,15 @@ Hi, I'm Boris!
 🔭 I’m currently working on my side projects
 🌱 I’m currently learning Angular
 📫 How to reach me: borisnandez93@gmail.com
-💡 I'm interested in all different things such as: Movies, Videogames, Music, Reading, Comics, Anime, Manga
+💡 I'm interested in all different things such as: Movies, Videogames, Music, Reading, 
+    Comics, Anime, Manga
 </pre>
 <hr>
 
-![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=bnhdez&show_icons=true&theme=algolia) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnhdez&langs_count=8&theme=algolia&layout=compact)
+<div justify-content="space-between">
+  ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=bnhdez&show_icons=true&theme=algolia) 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnhdez&langs_count=8&theme=algolia&layout=compact)
+</div>
 
 <!--
 **bnhdez/bnhdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
