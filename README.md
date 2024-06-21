@@ -17,16 +17,19 @@ Hi, I'm Boris!
 💡 I'm interested in: Movies, Videogames, Music, Reading, Anime, Manga, Comics
 📫 How to reach me: borisnandez93@gmail.com
 </pre>
+
 <hr>
 
 ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=bnhdez&show_icons=true&theme=algolia) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnhdez&langs_count=8&theme=algolia&layout=compact)
 
+
 <hr>
 
+<!--
 ### Spotify Playing 🎧
-[![Spotify](https://spotify-now-playing-ten-xi.vercel.app/api/spotify)](https://open.spotify.com/user/borisnandez93)
-
+[![Spotify](https://novatorem-git-main-boris-hernandezs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/borisnandez93)
+-->
 
 <!--
 **bnhdez/bnhdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
