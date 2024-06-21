@@ -11,11 +11,11 @@ Hi, I'm Boris!
 <hr>
 
 <pre>
-💻 I am developing my skills as a Frontend Developer
+💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
 🔭 I’m currently working on my side projects
 🌱 I’m currently learning Angular
 📫 How to reach me: borisnandez93@gmail.com
-💡 I'm interested in: Movies, Videogames, Music, Reading, Anime
+💡 I'm interested in: Movies, Videogames, Music, Reading, Anime, Manga, Comics
 </pre>
 <hr>
 
