@@ -12,12 +12,10 @@ Hi, I'm Boris!
 
 <pre>
 💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
-📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence & Deep Learning
-📝 I have a strong interest in building Frontend Uis for ML applications
-🔭 Working on Shopify Themes and React websites using Gatsby.js
-🌱 Focusing on Learning about customer needs and making their lives easier
-🌟 Main languages: Javascript, Python
-🚩 Interested in Full Stack Machine Learning Application development
+🔭 I’m currently working on my side projects
+🌱 I’m currently learning Angular
+📫 How to reach me: borisnandez93@gmail.com
+💡 I'm interested in all different things such as: Movies, Videogames, Music, Reading, Comics, Anime, Manga
 </pre>
 <hr>
 
