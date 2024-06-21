@@ -4,25 +4,21 @@ Hi, I'm Boris!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+-+end+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" Target="_blank"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+-+end+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://github.com/bnhdez/bnhdez/blob/main/122034ce-f357-4e42-80d3-2e9716dfc00f.jpeg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
-```
-I-am-vishalmaurya@github
--------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
+<pre>
+💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
+📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence & Deep Learning
+📝 I have a strong interest in building Frontend Uis for ML applications
+🔭 Working on Shopify Themes and React websites using Gatsby.js
+🌱 Focusing on Learning about customer needs and making their lives easier
+🌟 Main languages: Javascript, Python
 🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
-```
+</pre>
 <hr>
 
 <!--
