@@ -19,6 +19,8 @@ Hi, I'm Boris!
 </pre>
 <hr>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnhdez&langs_count=8&theme=algolia&layout=compact)
+
 <!--
 **bnhdez/bnhdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
