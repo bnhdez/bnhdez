@@ -7,10 +7,10 @@ Hi, I'm Boris!
   <a href="https://github.com/DenverCoder1/readme-typing-svg" Target="_blank"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+-+end+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://github.com/bnhdez/bnhdez/blob/main/122034ce-f357-4e42-80d3-2e9716dfc00f.jpeg" alt="pinterest pic robot" width="320" />
+<img align="left" src="https://github.com/bnhdez/bnhdez/blob/main/122034ce-f357-4e42-80d3-2e9716dfc00f.jpeg" alt="pinterest pic robot" width="220" />
 <hr>
 
-<pre>
+<pre align="right">
 💻 I’m developing my skills as a Frontend Developer | Enthuastic about new technologies
 🔭 I’m currently working on my side projects
 🌱 I’m currently learning Angular
