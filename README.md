@@ -16,12 +16,16 @@ Hi, I'm Boris!
 🌱 I’m currently learning Angular
 📫 How to reach me: borisnandez93@gmail.com
 💡 I'm interested in all different things such as: Movies, Videogames, Music, Reading, 
-    Comics, Anime, Manga
+   Comics, Anime, Manga
 </pre>
 <hr>
 
-  ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=bnhdez&show_icons=true&theme=algolia) 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnhdez&langs_count=8&theme=algolia&layout=compact)
+![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=bnhdez&show_icons=true&theme=algolia) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnhdez&langs_count=8&theme=algolia&layout=compact)
+
+<hr>
+
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/borisnandez93)
 
 
 <!--
