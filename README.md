@@ -9,7 +9,7 @@ Hi, I'm Boris!
 
 <hr>
 
-<img align="left" src="https://github.com/bnhdez/bnhdez/blob/main/122034ce-f357-4e42-80d3-2e9716dfc00f.jpeg" alt="pinterest pic robot" width="140" />
+<img align="left" src="https://github.com/bnhdez/bnhdez/blob/main/122034ce-f357-4e42-80d3-2e9716dfc00f.jpeg" alt="pinterest pic robot" width="130" />
 <pre>
 💻 I’m developing my skills as a Frontend Developer | Enthuastic about new technologies
 🔭 I’m currently working on my side projects
