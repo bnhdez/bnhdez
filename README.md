@@ -11,12 +11,11 @@ Hi, I'm Boris!
 <hr>
 
 <pre>
-💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
+💻 I am developing my skills as a Frontend Developer
 🔭 I’m currently working on my side projects
 🌱 I’m currently learning Angular
 📫 How to reach me: borisnandez93@gmail.com
-💡 I'm interested in all different things such as: Movies, Videogames, Music, Reading, 
-   Comics, Anime, Manga
+💡 I'm interested in: Movies, Videogames, Music, Reading, Anime
 </pre>
 <hr>
 
@@ -25,6 +24,7 @@ Hi, I'm Boris!
 
 <hr>
 
+### Spotify Playing 🎧
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/borisnandez93)
 
 
