@@ -20,7 +20,7 @@ Hi, I'm Boris!
 </pre>
 <hr>
 
-<div justify-content="space-between">
+<div align="center">
   ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=bnhdez&show_icons=true&theme=algolia) 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnhdez&langs_count=8&theme=algolia&layout=compact)
 </div>
