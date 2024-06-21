@@ -25,7 +25,7 @@ Hi, I'm Boris!
 <hr>
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/borisnandez93)
+[![Spotify](https://spotify-now-playing-ten-xi.vercel.app/api/spotify)](https://open.spotify.com/user/borisnandez93)
 
 
 <!--
