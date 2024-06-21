@@ -20,10 +20,9 @@ Hi, I'm Boris!
 </pre>
 <hr>
 
-<p align="center">
   ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=bnhdez&show_icons=true&theme=algolia) 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnhdez&langs_count=8&theme=algolia&layout=compact)
-</p>
+
 
 <!--
 **bnhdez/bnhdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
