@@ -13,7 +13,7 @@ Hi, I'm Boris!
 <pre>
 💻 I’m developing my skills as a Frontend Developer | Enthuastic about new technologies
 🔭 I’m currently working on my side projects
-🌱 I’m currently learning Angular
+🌱 I’m currently learning Angular and .NET(MVC)
 💡 I'm interested in: Movies, Videogames, Music, Reading, Anime, Manga, Comics
 📫 How to reach me: borisnandez93@gmail.com
 </pre>
